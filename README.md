@@ -3,7 +3,6 @@
 ### A website to track team and player statistics 
 
 ## Site Breakdown 
----
 ### Pages
 #### Home - Today's games 
 * View list of games based on date
