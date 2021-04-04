@@ -29,13 +29,10 @@
 * Leagues
 
 ### Other requirements 
-#### Create account and log in 
-
-#### Filter games using a calendar 
-
-#### Search for leagues, teams, and players 
-
-#### Add leagues, teams, and players to list of favorites 
+* Create account and log in 
+* Filter games using a calendar 
+* Search for leagues, teams, and players 
+* Add leagues, teams, and players to list of favorites 
 
 ### Statistics
 #### Team Statistics 
