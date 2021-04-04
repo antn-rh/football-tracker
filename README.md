@@ -1,5 +1,4 @@
 # Football Tracker
----
 ### A website to track team and player statistics 
 
 ## Site Breakdown 
